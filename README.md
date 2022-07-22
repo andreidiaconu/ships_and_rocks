@@ -4,7 +4,7 @@ A Flutter game powered by Flame that works nicely on foldable devices.
 
 ## Project structure
 
-This project contains 11 steps. The project is meant to be used in a talk or tutorial and was used in the talk called ["Making a controller for my Flutter Game"](https://www.youtube.com/watch?v=0yq_zlRelWY&t=13913s).
+This project contains 11 steps. The project is meant to be used in a talk or tutorial and was used in the talk called ["Making a controller for my Flutter Game"](https://www.youtube.com/watch?v=0yq_zlRelWY&t=11975s).
 
 1. The basic setup, a blank game engine.
 2. We add a ship to the game. It sits in the middle of the screen, does not move yet.
