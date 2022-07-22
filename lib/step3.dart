@@ -4,7 +4,7 @@ import 'package:flame/game.dart';
 import 'package:flame/palette.dart';
 import 'package:flutter/material.dart';
 
-/// We add a joystick to the game
+/// We add a joystick to the game.
 class ShipsAndRocks extends StatelessWidget {
   const ShipsAndRocks({Key? key}) : super(key: key);
 
